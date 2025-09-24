@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB050C89-6A74-4B8A-8754-E2201E68E29B}|Ex2\\Ex2.vcxproj|C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex2\\Ex2\\Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB050C89-6A74-4B8A-8754-E2201E68E29B}|Ex2\\Ex2.vcxproj|solutionrelative:Ex2\\Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex2\\Ex2\\Ex2.cpp",
+              "RelativeDocumentMoniker": "Ex2\\Ex2.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex2\\Ex2\\Ex2.cpp",
+              "RelativeToolTip": "Ex2\\Ex2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T15:24:37.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

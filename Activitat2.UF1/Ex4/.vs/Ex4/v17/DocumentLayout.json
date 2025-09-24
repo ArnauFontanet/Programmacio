@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66F9774-993E-41F1-B674-F68C084AE064}|Ex4\\Ex4.vcxproj|C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex4\\Ex4\\Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E66F9774-993E-41F1-B674-F68C084AE064}|Ex4\\Ex4.vcxproj|solutionrelative:Ex4\\Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex4.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex4\\Ex4\\Ex4.cpp",
+              "RelativeDocumentMoniker": "Ex4\\Ex4.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\Activitat2.UF1\\Ex4\\Ex4\\Ex4.cpp",
+              "RelativeToolTip": "Ex4\\Ex4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T16:16:41.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
