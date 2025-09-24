@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55577A94-ED27-4ED1-9048-3E228C1E98FC}|Exercici2\\Exercici2.vcxproj|C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\Exercici2\\Exercici2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55577A94-ED27-4ED1-9048-3E228C1E98FC}|Exercici2\\Exercici2.vcxproj|solutionrelative:Exercici2\\Exercici2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercici2.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\Exercici2\\Exercici2.cpp",
+              "RelativeDocumentMoniker": "Exercici2\\Exercici2.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\Exercici2\\Exercici2.cpp",
+              "RelativeToolTip": "Exercici2\\Exercici2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T14:19:25.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

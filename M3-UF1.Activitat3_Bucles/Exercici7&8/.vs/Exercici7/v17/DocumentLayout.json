@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\Exercici2\\Exercici2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3D4883-DF7D-4A4B-BBC6-5C9D049CD89D}|Exercici7\\Exercici7.vcxproj|C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici7\\Exercici7\\Exercici7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA3D4883-DF7D-4A4B-BBC6-5C9D049CD89D}|Exercici7\\Exercici7.vcxproj|solutionrelative:Exercici7\\Exercici7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercici2.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\Exercici2\\Exercici2.cpp",
+              "RelativeDocumentMoniker": "..\\Exercici2\\Exercici2\\Exercici2.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici2\\Exercici2\\Exercici2.cpp",
+              "RelativeToolTip": "..\\Exercici2\\Exercici2\\Exercici2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T14:46:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercici7.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici7\\Exercici7\\Exercici7.cpp",
+              "RelativeDocumentMoniker": "Exercici7\\Exercici7.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici7\\Exercici7\\Exercici7.cpp",
+              "RelativeToolTip": "Exercici7\\Exercici7.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T14:31:57.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

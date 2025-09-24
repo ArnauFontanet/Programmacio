@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD19C1EC-FDB9-428C-BB92-FE709F1E63EC}|Exercici10\\Exercici10.vcxproj|C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici10\\Exercici10\\Exercici10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD19C1EC-FDB9-428C-BB92-FE709F1E63EC}|Exercici10\\Exercici10.vcxproj|solutionrelative:Exercici10\\Exercici10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercici10.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici10\\Exercici10\\Exercici10.cpp",
+              "RelativeDocumentMoniker": "Exercici10\\Exercici10.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\M3-UF1.Activitat3_Bucles\\Exercici10\\Exercici10\\Exercici10.cpp",
+              "RelativeToolTip": "Exercici10\\Exercici10.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T15:10:16.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
