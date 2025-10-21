@@ -1,0 +1,3 @@
+﻿  Ex2.cpp
+C:\Users\arnau\source\repos\M3-UF1.Activitat5Strings\Ex2\Ex2\Ex2.cpp(10,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ex2.vcxproj -> C:\Users\arnau\source\repos\M3-UF1.Activitat5Strings\Ex2\x64\Debug\Ex2.exe
