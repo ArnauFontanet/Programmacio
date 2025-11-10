@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\ExerciciFuncio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B146DC-01F8-46DB-9B85-1C15ED680D6C}|ExerciciFuncio1\\ExerciciFuncio1.vcxproj|C:\\Users\\arnau\\source\\repos\\ExerciciFuncio1\\ExerciciFuncio1\\ExerciciFuncio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57B146DC-01F8-46DB-9B85-1C15ED680D6C}|ExerciciFuncio1\\ExerciciFuncio1.vcxproj|solutionrelative:ExerciciFuncio1\\ExerciciFuncio1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAD4EAAAAAAAAAAAAwEoEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-10T21:08:05.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExerciciFuncio1.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\ExerciciFuncio1\\ExerciciFuncio1\\ExerciciFuncio1.cpp",
+              "RelativeDocumentMoniker": "ExerciciFuncio1\\ExerciciFuncio1.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\ExerciciFuncio1\\ExerciciFuncio1\\ExerciciFuncio1.cpp",
+              "RelativeToolTip": "ExerciciFuncio1\\ExerciciFuncio1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAKMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T15:42:24.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
