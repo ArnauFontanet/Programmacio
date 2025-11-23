@@ -1,0 +1,7 @@
+﻿  Ex3.cpp
+C:\Users\arnau\source\repos\Act3-UF2\Ex3\Ex3\Ex3.cpp(32,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arnau\source\repos\Act3-UF2\Ex3\Ex3\Ex3.cpp(36,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arnau\source\repos\Act3-UF2\Ex3\Ex3\Ex3.cpp(40,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arnau\source\repos\Act3-UF2\Ex3\Ex3\Ex3.cpp(44,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arnau\source\repos\Act3-UF2\Ex3\Ex3\Ex3.cpp(48,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ex3.vcxproj -> C:\Users\arnau\source\repos\Act3-UF2\Ex3\x64\Debug\Ex3.exe
