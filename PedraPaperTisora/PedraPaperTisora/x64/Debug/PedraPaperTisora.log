@@ -1,0 +1,3 @@
+﻿  PedraPaperTisora.cpp
+C:\Users\arnau\source\repos\Act3-UF2\PedraPaperTisora\PedraPaperTisora\PedraPaperTisora.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PedraPaperTisora.vcxproj -> C:\Users\arnau\source\repos\Act3-UF2\PedraPaperTisora\x64\Debug\PedraPaperTisora.exe
