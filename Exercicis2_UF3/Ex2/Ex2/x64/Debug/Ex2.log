@@ -1,0 +1,3 @@
+﻿  Ex2.cpp
+C:\Users\arnau\source\repos\Exercicis2_UF3\Ex2\Ex2\Ex2.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ex2.vcxproj -> C:\Users\arnau\source\repos\Exercicis2_UF3\Ex2\x64\Debug\Ex2.exe

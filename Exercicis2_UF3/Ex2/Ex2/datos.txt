@@ -1,0 +1,7 @@
+Maquina: 0, Jugador: 1.
+Guanyador = Maquina
+Maquina: 1, Jugador: 1.
+Guanyador = Jugador
+Maquina: 1, Jugador: 0.
+Guanyador = Maquina
+Victories maquina: 2   Victories Jugador: 1

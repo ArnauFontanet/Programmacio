@@ -1,0 +1,1 @@
+Nums menors o iguals a 5: 8
