@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arnau\\source\\repos\\Activitat1_UF3_LOGSLLIBRES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E3242E-1A2F-4058-993A-9233B46A47FE}|Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.vcxproj|C:\\Users\\arnau\\source\\repos\\Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21E3242E-1A2F-4058-993A-9233B46A47FE}|Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.vcxproj|solutionrelative:Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Activitat1_UF3_LOGSLLIBRES.cpp",
+              "DocumentMoniker": "C:\\Users\\arnau\\source\\repos\\Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.cpp",
+              "RelativeDocumentMoniker": "Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.cpp",
+              "ToolTip": "C:\\Users\\arnau\\source\\repos\\Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.cpp",
+              "RelativeToolTip": "Activitat1_UF3_LOGSLLIBRES\\Activitat1_UF3_LOGSLLIBRES.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-12T12:15:43.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
